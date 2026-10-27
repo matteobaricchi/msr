@@ -20,6 +20,7 @@ To run all other scripts the following packages are required:
 - matplotlib (>= 3.10.3 recommended)
 - xarray (>= 2025.4.0 recommended)
 - utm  (>= 0.8.1 recommended)
+
 To run the code included in the folder **case/HKNscaled** several additional packages are required. All the packages (with their versions) present in the environment adopted for this example are listed in the corresponding folder.
 
 
